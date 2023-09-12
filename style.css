@@ -1,0 +1,52 @@
+/* Style Sheet for Resume */
+h1 {
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 2%;
+}
+
+.contact {
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    
+}
+
+
+h2 {
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+/* Heading 3 Begings Here*/
+
+h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1%;
+    margin-bottom: 1%
+
+}
+
+/*List Beings Here*/
+
+li {
+    list-style: none;
+    
+}
+
+ul {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+p {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.job-titles {
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
