@@ -1,29 +1,40 @@
 /* Style Sheet for Resume */
+
+/*Heading 1 Begins Here*/
+
+
 h1 {
+    color: navy;
     text-align: center;
+    font-size: 300%;
     margin-top: 0%;
     margin-bottom: 2%;
 }
 
 .contact {
+    color: darkblue;
+    background-color: white;
     text-align: center;
     margin-top: 0%;
     margin-bottom: 2%;
     
 }
 
+/*Heading 2 Begins Here */
 
 h2 {
-    color: red;
+    color:rgb(0, 41, 121);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 150%;
     margin-top: 2%;
     margin-bottom: 1%;
 }
 
-/* Heading 3 Begings Here*/
+/* Heading 3 Begins Here*/
 
 h3 {
+    color: rgb(59, 11, 149);
+    background-color: rgb(220, 234, 243);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 1%;
     margin-bottom: 1%
@@ -38,15 +49,23 @@ li {
 }
 
 ul {
-    margin-top: 0%;
-    margin-bottom: 0%;
-}
-p {
+    color:rgb(0, 61, 121);
+    background-color: rgb(208, 233, 243);
     margin-top: 0%;
     margin-bottom: 0%;
 }
 
+/*Paragraphs Begin Here*/
+
+p {
+    color:rgb(0, 38, 209);
+    margin-top: 0%;
+    margin-bottom: 1%;
+}
+
 .job-titles {
+    color:rgb(0, 61, 121);
+    background-color: rgb(205, 246, 249);
     margin-top: 2%;
     margin-bottom: 0%;
 }
